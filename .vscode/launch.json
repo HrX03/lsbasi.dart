@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dart_interpreter",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/dart_interpreter.dart",
+            "args": ["--stack", "test.pas"],
+        }
+    ]
+}
